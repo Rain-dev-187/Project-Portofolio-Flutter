@@ -4,7 +4,7 @@ Portofolio Flutter modern yang menampilkan skill, desain UI/UX dark theme, dan b
 
 ---
 
-## ✨ Ringkasan
+##  Ringkasan
 
 Aplikasi ini dirancang untuk memperlihatkan portofolio developer dengan:
 - Tampilan dark theme yang konsisten
@@ -16,7 +16,7 @@ Aplikasi ini dirancang untuk memperlihatkan portofolio developer dengan:
 
 ---
 
-## 🚀 Fitur Utama
+##  Fitur Utama
 
 - **Dashboard interaktif** dengan GridView dan menu cards
 - **Counter App** untuk demo increment / decrement / reset
@@ -29,7 +29,7 @@ Aplikasi ini dirancang untuk memperlihatkan portofolio developer dengan:
 
 ---
 
-## 📱 Halaman yang Tersedia
+##  Halaman yang Tersedia
 
 ### Dashboard
 Menampilkan menu interaktif untuk berpindah ke setiap halaman.
@@ -57,17 +57,17 @@ Halaman profil dengan foto, data diri, deskripsi, skill bar, dan kontak.
 
 ---
 
-## 👨‍💻 Tentang Developer
+##  Tentang Developer
 
 **Ahmad Sahrul Fadhilah**
 - Program Studi: Sistem Informasi
 - Universitas Kebangsaan Republik Indonesia
-- GitHub: https://github.com/ahmadsahrulfadhilah
-- Email: ahmad.sahrul.fadhilah@gmail.com
+- GitHub: https://github.com/Rain-dev-187
+- Email: ahmadsahrul1887@gmail.com
 
 ---
 
-## 🛠️ Teknologi
+##  Teknologi
 
 - Flutter
 - Dart
@@ -76,7 +76,7 @@ Halaman profil dengan foto, data diri, deskripsi, skill bar, dan kontak.
 
 ---
 
-## 🧩 Struktur Proyek
+##  Struktur Proyek
 
 ```
 lib/
@@ -99,7 +99,7 @@ lib/
 
 ---
 
-## 🎯 Cara Menjalankan
+##  Cara Menjalankan
 
 ```bash
 cd f:\Projects\project_portofolio_v2
@@ -116,7 +116,7 @@ flutter run -d chrome
 
 ---
 
-## 📌 Catatan
+##  Catatan
 
 - Aplikasi ini menggunakan desain dark theme modern dan komponen Material 3.
 - Kontak di halaman About Me dapat disalin langsung ke clipboard dengan sekali klik.
