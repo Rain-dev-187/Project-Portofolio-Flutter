@@ -100,10 +100,12 @@ lib/
 ##  Cara Menjalankan
 
 ```bash
-cd f:\Projects\project_portofolio_v2
-git init
+Clone Repository
+git clone https://github.com/Rain-dev-187/Project-Portofolio-Flutter.git
+cd project_portofolio_v2
+
+Install Dependencies
 flutter pub get
-flutter run
 ```
 
 Untuk menjalankan di Web:
