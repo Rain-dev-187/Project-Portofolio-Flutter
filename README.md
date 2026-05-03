@@ -1,7 +1,5 @@
 # Project Portofolio Flutter
 
-Portofolio Flutter modern yang menampilkan skill, desain UI/UX dark theme, dan beberapa halaman fungsional untuk menunjukkan kemampuan pengembangan aplikasi.
-
 ---
 
 ##  Ringkasan
@@ -111,7 +109,7 @@ flutter run
 Untuk menjalankan di Web:
 
 ```bash
-flutter run -d chrome
+flutter run
 ```
 
 ---
