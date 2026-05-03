@@ -135,7 +135,7 @@ class AboutMePage extends StatelessWidget {
                       ),
                       const SizedBox(height: AppTheme.paddingSmall),
                       Text(
-                        'Seorang mahasiswa Sistem Informasi yang antusias dengan dunia teknologi dan pengembangan perangkat lunak. Memiliki pengalaman praktis di bidang IT Support dengan keahlian dalam instalasi sistem operasi, pemeliharaan perangkat keras, dan manajemen jaringan. Berpengalaman bekerja di perusahaan BUMN seperti PT PLN (Persero) dan PT Jaya Mitra Kurnia. Terampil dalam troubleshooting hardware, software, dan jaringan, serta memiliki kemampuan dasar dalam pengembangan aplikasi web dan mobile. Berdedikasi untuk memberikan solusi teknis yang berkualitas dengan perhatian terhadap detail dan kemampuan problem-solving yang baik.',
+                        'Seorang mahasiswa Sistem Informasi yang antusias dengan dunia teknologi dan pengembangan perangkat lunak. Memiliki pengalaman praktis di bidang IT Support dengan keahlian dalam instalasi sistem operasi, pemeliharaan perangkat keras, dan manajemen jaringan.',
                         textAlign: TextAlign.justify,
                         style: Theme.of(context).textTheme.bodyLarge?.copyWith(
                           color: AppColors.textSecondary,
