@@ -111,7 +111,7 @@ flutter run
 Untuk menjalankan di Web:
 
 ```bash
-flutter run -d chrome
+flutter run
 ```
 
 ---
