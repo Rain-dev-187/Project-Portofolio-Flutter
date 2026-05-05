@@ -3,7 +3,7 @@ import '../config/app_colors.dart';
 import '../config/app_theme.dart';
 
 class GridViewPage extends StatelessWidget {
-  const GridViewPage({Key? key}) : super(key: key);
+  const GridViewPage({super.key});
 
   @override
   Widget build(BuildContext context) {

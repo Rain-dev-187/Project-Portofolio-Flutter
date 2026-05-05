@@ -3,7 +3,7 @@ import '../config/app_colors.dart';
 import '../config/app_theme.dart';
 
 class UserInputPage extends StatefulWidget {
-  const UserInputPage({Key? key}) : super(key: key);
+  const UserInputPage({super.key});
 
   @override
   State<UserInputPage> createState() => _UserInputPageState();
@@ -133,7 +133,7 @@ class _UserInputPageState extends State<UserInputPage> {
 
                       // Dropdown
                       DropdownButtonFormField<String>(
-                        value: _selectedOption,
+                        initialValue: _selectedOption,
                         decoration: InputDecoration(
                           hintText: 'Pilih Opsi',
                           prefixIcon: const Icon(Icons.category_outlined),

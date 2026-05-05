@@ -5,7 +5,7 @@ import '../config/app_colors.dart';
 import '../config/app_theme.dart';
 
 class AboutMePage extends StatelessWidget {
-  const AboutMePage({Key? key}) : super(key: key);
+  const AboutMePage({super.key});
 
   @override
   Widget build(BuildContext context) {

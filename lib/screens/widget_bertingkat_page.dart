@@ -3,14 +3,14 @@ import '../config/app_colors.dart';
 import '../config/app_theme.dart';
 
 class WidgetBertingkatPage extends StatelessWidget {
-  const WidgetBertingkatPage({Key? key}) : super(key: key);
+  const WidgetBertingkatPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppColors.darkBg,
       appBar: AppBar(
-        title: const Text('Nested Widgets'),
+        title: const Text('Widget Bertingkat'),
         backgroundColor: AppColors.cardBg,
       ),
       body: SingleChildScrollView(

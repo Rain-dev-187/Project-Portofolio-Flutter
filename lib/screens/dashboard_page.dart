@@ -11,7 +11,7 @@ import 'grid_view_page.dart';
 import 'about_me_page.dart';
 
 class DashboardPage extends StatelessWidget {
-  const DashboardPage({Key? key}) : super(key: key);
+  const DashboardPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -108,8 +108,8 @@ class DashboardPage extends StatelessWidget {
                   ),
                   MenuCard(
                     icon: Icons.layers_outlined,
-                    title: 'Nested Widgets',
-                    subtitle: 'Layout Hierarchy',
+                    title: 'Widget Bertingkat',
+                    subtitle: 'Hierarchi Layout',
                     iconColor: AppColors.accentBright,
                     onTap: () {
                       Navigator.push(

@@ -10,13 +10,13 @@ class MenuCard extends StatefulWidget {
   final Color iconColor;
 
   const MenuCard({
-    Key? key,
+    super.key,
     required this.icon,
     required this.title,
     this.subtitle,
     required this.onTap,
     this.iconColor = AppColors.primary,
-  }) : super(key: key);
+  });
 
   @override
   State<MenuCard> createState() => _MenuCardState();

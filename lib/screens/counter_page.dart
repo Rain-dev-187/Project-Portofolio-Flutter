@@ -3,7 +3,7 @@ import '../config/app_colors.dart';
 import '../config/app_theme.dart';
 
 class CounterPage extends StatefulWidget {
-  const CounterPage({Key? key}) : super(key: key);
+  const CounterPage({super.key});
 
   @override
   State<CounterPage> createState() => _CounterPageState();

@@ -3,7 +3,7 @@ import '../config/app_colors.dart';
 import '../config/app_theme.dart';
 
 class NavigasiPage extends StatefulWidget {
-  const NavigasiPage({Key? key}) : super(key: key);
+  const NavigasiPage({super.key});
 
   @override
   State<NavigasiPage> createState() => _NavigasiPageState();
